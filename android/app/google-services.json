@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060716852654",
+    "project_id": "signupfirebase-98ee8",
+    "storage_bucket": "signupfirebase-98ee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060716852654:android:d2f57055751a7125c5043f",
+        "android_client_info": {
+          "package_name": "com.example.cipherxtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdBiP3B1kVo6W-fWfZPV1t_Nbb6Ll1kWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
